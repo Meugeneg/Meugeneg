@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Meugeneg from Colombia.
 - 👀 I’m interested in Fintech and Legaltech.
 - 🌱 These are my first steps as developer.
+- 📫 You can reach me in https://www.linkedin.com/in/meugeneg/
 
 
 <!---
